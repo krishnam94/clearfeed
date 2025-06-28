@@ -1,0 +1,8 @@
+streamlit
+openai
+feedparser
+googletrans==4.0.0-rc1
+newspaper3k
+requests
+google-search-results
+feedfinder2

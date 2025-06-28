@@ -1,0 +1,12 @@
+[
+  {"name": "WHO News", "url": "https://www.who.int/rss-feeds/news-english.xml", "category": "Health", "trust_score": 9.5},
+  {"name": "CDC News", "url": "https://tools.cdc.gov/api/v2/resources/media/403372.rss", "category": "Health", "trust_score": 9.2},
+  {"name": "The Guardian World", "url": "https://www.theguardian.com/world/rss", "category": "World", "trust_score": 8.8},
+  {"name": "Al Jazeera Top", "url": "https://www.aljazeera.com/xml/rss/all.xml", "category": "World", "trust_score": 8.7},
+  {"name": "PubMed Recent", "url": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1/", "category": "Science", "trust_score": 8.5},
+  {"name": "TechCrunch", "url": "http://feeds.feedburner.com/TechCrunch/", "category": "Tech", "trust_score": 8.0},
+  {"name": "Reuters World", "url": "http://feeds.reuters.com/Reuters/worldNews", "category": "World", "trust_score": 8.6},
+  {"name": "Nature News", "url": "https://www.nature.com/subjects/news/rss.xml", "category": "Science", "trust_score": 8.4},
+  {"name": "BBC News", "url": "http://feeds.bbci.co.uk/news/rss.xml", "category": "World", "trust_score": 9.0},
+  {"name": "MIT Technology Review", "url": "https://www.technologyreview.com/feed/", "category": "Tech", "trust_score": 8.2}
+]

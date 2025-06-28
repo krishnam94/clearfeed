@@ -1,0 +1,3 @@
+Summarize the article below for a concerned but non-expert reader. Use a calm, reassuring tone. Focus on the main insight and one actionable takeaway. Avoid jargon.
+
+[ARTICLE TEXT HERE]

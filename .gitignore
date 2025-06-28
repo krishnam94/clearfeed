@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.pyo
+*.pyd
+*.pdb
+*.so
+
+# Env
+.env
+.env.*
+*.env
+clearfeed-env/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# SQLite and local data
+*.db
+*.sqlite3
+data/selected_topics.json
+
+# Streamlit
+.streamlit/
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Secrets
+openai_api_key.txt
+serpapi_key.txt
+
+# Misc
+*.bak
+*.swp
