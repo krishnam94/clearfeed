@@ -7,3 +7,4 @@ requests
 google-search-results
 feedfinder2
 lxml
+lxml_html_clean
