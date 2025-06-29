@@ -6,3 +6,4 @@ newspaper3k
 requests
 google-search-results
 feedfinder2
+lxml
